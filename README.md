@@ -8,7 +8,7 @@ I'm a dynamic software engineer with 3.6 years of expertise in Python, Django, a
 - 🚀 Skilled in project leadership, collaboration, and mentoring.
 - 🌱 Currently learning about cloud technologies and machine learning.
 - 👯‍♂️ Looking to collaborate on open-source projects and innovative software solutions.
-- 📫 You can reach me via email at [your@email.com](mailto:your@email.com) or connect with me on [LinkedIn](https://linkedin.com/in/yourprofile).
+- 📫 You can reach me via email at [aryasujathan@yahoo.com](mailto:aryasujathan@yahoo.com) or connect with me on [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/arya-e-s-88905817b)).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a coffee enthusiast and enjoy brewing specialty coffee at home!
 
